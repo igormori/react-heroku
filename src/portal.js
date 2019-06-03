@@ -7,6 +7,9 @@ class portal extends React.Component {
         return  <div>
 
                 ISDashdosahdashdusa
+
+
+                you got ittttttttt!
         </div>
          ;
     }
